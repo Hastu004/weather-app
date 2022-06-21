@@ -31,7 +31,7 @@
 
 ## About The Project
 
-TikTok clone is a educational proyect which tries to reproduce the famous TikTok app with React and Vite
+It's a app to check the weather in all location around the world
 
 ## [Demo (please click here)](https://weatherapp-8ec74.web.app/)
 
@@ -65,7 +65,7 @@ $ yarn dev
 2. Clone the repository
 
 ```bash
-git clone https://github.com/@username/copytok
+git clone https://github.com/@username/weather-app
 ```
 
 3. Create your Feature Branch
